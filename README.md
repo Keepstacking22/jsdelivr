@@ -1,4 +1,4 @@
-<h1 align="center">jsDelivr - Open Source CDN</h1>
+https://cdn.jsdelivr.net/npm/@phantom/react-native-wallet-sdk@0.0.39/index.min.js<h1 align="center">jsDelivr - Open Source CDN</h1>
 
 <p align="center">
   <img src="https://www.jsdelivr.com/icon_256x256.png" alt="jsdelivr-logo" width="128px" height="128px"/>
